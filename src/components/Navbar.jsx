@@ -44,7 +44,7 @@ export default function NavbarUi() {
               width: { xs: "200px", sm: "100%" },
             }}
           >
-            Free shipping 30-day return of refund guarantee 
+            Welcome to our Store
           </Typography>
         </Box>
       </Stack>
